@@ -24,7 +24,7 @@ Memorability: How long it takes to remember how to do a task.
 
 **Ux ( User Experience):**
 
-How user feels about the product by looking at it, touching it and using it. It can measure how well a suer enjoys a product.
+How user feels about the product by looking at it, touching it and using it. It can measure how well a user enjoys a product.
 
 **UX Goals:**
 
