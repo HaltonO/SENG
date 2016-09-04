@@ -28,7 +28,7 @@ How user feels about the product by looking at it, touching it and using it. It 
 
 **UX Goals:**
 
-1- Satisfying. 2- fun 3- Enjoyable 4- entertaining 5- Atesthetically pleasing to look at and/or touch
+1- Satisfying. 2- fun 3- Enjoyable 4- entertaining 5- Aesthetically pleasing to look at and/or touch
 6- Motivating 7- Helpful 8- Rewarding
 
 **UX Metrics:**
