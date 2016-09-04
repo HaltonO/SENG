@@ -13,7 +13,7 @@ short for Human Computer interaction which is the design, evaluation and impleme
 
 **Notes**
 
-1- Designing a product depends on the understanding of many aspects. e.g. designing a story kit for kids depends on how kids read and write stores and how they percieve things.
+1- Designing a product depends on the understanding of many aspects. e.g. designing a story kit for kids depends on how kids read and write stories and how they percieve things.
 
 2- working with many people from different disciplines means confusion and misunderstanding because each has their own perspective of the world.
 
