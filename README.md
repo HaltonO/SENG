@@ -1,1 +1,1 @@
-Notes for Uvic SENG 310, Summer 2016
+**Notes for Uvic SENG 310, Summer 2016**
